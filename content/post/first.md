@@ -9,4 +9,4 @@ Here is your fist post.
 The img value contain path to the image of this post
 Then place a matching image in static/img - e.g. static/img/dog.png
 
-Ok this looks cool.
+Ok this looks cool.![](/uploads/2017/12/28/blue-winged-warbler.jpg)
